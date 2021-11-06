@@ -18,6 +18,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_1">Η εντολή Translate</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_2">Μεταβλητές στην C#</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_3">SerializeField (Εισαγωγή δεδομένω απο το gui)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_4">Input.GetAxis (βελάκια για μετακίνηση αντικειμένου)</a></li>
 
 </ul>
 
