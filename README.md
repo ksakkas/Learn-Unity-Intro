@@ -16,6 +16,9 @@
 <h3>Εισαγωγή στο Unity και στην C#</h3>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_1">Η εντολή Translate</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_2">Μεταβλητές στην C#</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_3">SerializeField (Εισαγωγή δεδομένω απο το gui)</a></li>
+
 </ul>
 
 
