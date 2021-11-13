@@ -21,6 +21,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_4">Input.GetAxis (βελάκια για μετακίνηση αντικειμένου)</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_5">Η Time.deltaTime στα Input.GetAxis</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_6">Το πακέτο Cinemachine (Η κάμερα ακολουθεί τον χρήστη)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_7">Μέθοδοι Collision (συγκρούσεις)</a></li>
 
 </ul>
 
