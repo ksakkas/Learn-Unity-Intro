@@ -24,6 +24,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_7">Ιδιότητες Collision (συγκρούσεις)</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_8">Μέθοδοι στην C# (συναρτήσεις)</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_9">Η εντολή OnCollisionEnter (σύγκρουση σε αντικείμενο)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_10">Η εντολή GetComponent (εισαγωγή πληροφοριών απο αντικείμενα)</a></li>
 
 </ul>
 
