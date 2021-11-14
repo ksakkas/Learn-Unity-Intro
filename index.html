@@ -37,18 +37,18 @@
 					Learn Unity with C#<br> Members Login
 				</span>
 
-				<div class="wrap-input100 validate-input m-b-20" data-validate="Enter username or email">
-					<input class="input100" type="text" name="username" placeholder="username or email">
+				<div class="wrap-input100 validate-input m-b-20" data-validate="Enter username">
+					<input class="input100" type="text" name="username" id="us" placeholder="username">
 					<span class="focus-input100"></span>
 				</div>
 
 				<div class="wrap-input100 validate-input m-b-25" data-validate = "Enter password">
-					<input class="input100" type="password" name="pass" placeholder="password">
+					<input class="input100" type="password" name="pass" id="pas" placeholder="password">
 					<span class="focus-input100"></span>
 				</div>
 
 				<div class="container-login100-form-btn">
-					<button class="login100-form-btn">
+					<button class="login100-form-btn" onclick="validate()">
 						Sign In
 					</button>
 				</div>
@@ -85,6 +85,18 @@
 
 	<div id="dropDownSelect1"></div>
 	
+	<script>
+	function validate(){
+		us = document.getElementById("us").value;
+		pas = document.getElementById("pas").value;
+		
+		if(us == "xrcenter" && pas == "epirus")
+		{
+			window.location = "index2.html";
+		}
+	}
+
+	</script>
 <!--===============================================================================================-->
 	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
 <!--===============================================================================================-->
