@@ -28,6 +28,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_11">Καταμέτρηση Score σε παιχνίδι</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_12">Η εντολή if</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_13">Η λειτουργία Caching</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_14">Η χρήση των tags</a></li>
 
 </ul>
 
