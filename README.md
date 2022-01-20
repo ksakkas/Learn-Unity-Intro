@@ -30,6 +30,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_13">Η λειτουργία Caching</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_14">Η χρήση των tags</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_15">Προγραμματιζόμενη περιστροφή</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/intro_16">Prefabs και Ομαδοποίηση</a></li>
 
 </ul>
 
