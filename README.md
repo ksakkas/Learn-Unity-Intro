@@ -38,6 +38,7 @@
 <h3>Παιχνίδι στο Unity με C#</h3>
 <ul>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_1">Η εντολή Input</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_2">Η εντολή AddRelativeForce</a></li>
 
 </ul>
 
