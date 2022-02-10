@@ -1,0 +1,55 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Movement : MonoBehaviour
+{
+    [SerializeField] float mainThrust = 100f;
+    [SerializeField] float rotationThrust = 1f;
+
+    Rigidbody rb;  
+    // Start is called before the first frame update
+    void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        ProcessT();
+        ProcessR();
+    }
+    
+    // GetKey(string name) = Επιστρέφει true ενώ ο χρήστης κρατά πατημένο το κλειδί που προσδιορίζεται από name.
+    // GetKey(KeyCode key) = Επιστρέφει true ενώ ο χρήστης κρατά πατημένο το κλειδί που προσδιορίζεται από την παράμετρο key KeyCode.
+
+    void ProcessT()
+    {
+        if(Input.GetKey(KeyCode.Space))
+        {
+            //AddRelativeForce(float x, float y, float z, ForceMode mode = ForceMode.Force) = Προσθέτει μια δύναμη στο άκαμπτο σώμα σε σχέση με το σύστημα συντεταγμένων του.
+            rb.AddRelativeForce(Vector3.up);
+        }   
+    }
+
+    void ProcessR()
+    {
+        if(Input.GetKey(KeyCode.A))
+        {
+            Rotation(rotationThrust);
+        }
+        else if(Input.GetKey(KeyCode.D))
+        {
+            Rotation(-rotationThrust);
+        }
+    }
+
+    void Rotation(float rotationf)
+    {
+        //Vector3 = αναπαράσταση τρισδιάστατων διανυσμάτων και σημείων.
+        //deltaTime = το διάστημα σε δευτερόλεπτα από το τελευταίο καρέ έως το τρέχον
+        transform.Rotate(Vector3.forward * rotationf * Time.deltaTime);
+    }
+
+}
