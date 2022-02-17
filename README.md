@@ -40,7 +40,8 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_1">Η εντολή Input</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_2">Η εντολή AddRelativeForce</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_3">Μέθοδοι με αναφορές & Μέθοδοι περιστροφής</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_4">Προσθήκη ήχου</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_4">Προσθήκη ήχου σε αντικείμενο</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_4">Αναπαραγωγή ήχου με κάποια ενέργεια</a></li>
 
 </ul>
 
