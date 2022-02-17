@@ -41,7 +41,8 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_2">Η εντολή AddRelativeForce</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_3">Μέθοδοι με αναφορές & Μέθοδοι περιστροφής</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_4">Προσθήκη ήχου σε αντικείμενο</a></li>
-<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_4">Αναπαραγωγή ήχου με κάποια ενέργεια</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_5">Αναπαραγωγή ήχου με κάποια ενέργεια</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_6">Switch - Case και Ετικέτες σε αντικείμενα</a></li>
 
 </ul>
 
