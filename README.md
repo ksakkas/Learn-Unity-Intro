@@ -44,6 +44,7 @@
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_5">Αναπαραγωγή ήχου με κάποια ενέργεια</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_6">Switch - Case και Ετικέτες σε αντικείμενα</a></li>
 <li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_7">Scene Manager και Επανεκκίνηση παιχνιδιού</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Unity-Intro/tree/master/game_8">Επόμενο επίπεδο - Next Level Scene</a></li>
 
 </ul>
 
